@@ -1,0 +1,31 @@
+*{
+    font-family: sans-serif;
+}
+
+.mango{
+    background-image: url(../images/banner/banner3.png) ;
+
+height: 808px;
+width: 1600px;
+
+}
+.margin{
+
+    color: #FFFFFF;
+    text-align: right;
+    padding-left: 916;
+    padding-right: 159px;
+    padding-bottom: 388px;
+    padding-top: 192px;
+}
+
+.butt{
+    padding: 5px;
+    color: rgb(7, 41, 71);
+    border-radius: 7px;
+    padding: 15px; 
+    
+}
+#size{
+    size: 40px;
+}
