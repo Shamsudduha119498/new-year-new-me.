@@ -29,3 +29,8 @@ width: 1600px;
 #size{
     size: 40px;
 }
+.unorder{
+    display: flex;
+    align-items: center;
+    
+}
