@@ -34,3 +34,12 @@ width: 1600px;
     align-items: center;
     
 }
+.flex{
+    display: flex;
+    justify-content: space-between;
+    margin-left: 150px;
+    margin-right: 150px;
+}
+.klkl{
+    size: 15px;
+}
