@@ -43,3 +43,23 @@ width: 1600px;
 .klkl{
     size: 15px;
 }
+.watch{
+    background-image: url(../images/watch.png);
+    background-repeat: no-repeat;
+    
+    align-items: center;
+    padding-left: 64px;
+    padding-right: 617px;
+    padding-top: 59px;
+    padding-bottom: 59px;
+}
+#call{
+    background-color: #FFFFFF; 
+    padding: 10px;
+    border-radius: 5px;
+
+}
+#color{
+    color: darkblue;
+    size:30px;
+}
