@@ -68,14 +68,15 @@ width: 1600px;
     background-color: black;
 
 }
+
 .text{
     color: aliceblue;
-    padding-top: 20px;
-    padding-bottom: 20px;
+    padding-top: 50px;
 }
 #text-color{
     color: aliceblue;
-    padding-top: 50px;
+    padding-top: 40px;
+    padding-bottom: 40px;
 }
 #sub{
     padding: 10px;
@@ -89,4 +90,9 @@ width: 1600px;
 }
 #email{
     size: 25px;
+}
+.foot{
+    display: flex;
+    justify-content: space-around;
+    background-color: black;
 }
