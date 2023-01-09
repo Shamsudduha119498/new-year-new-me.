@@ -46,7 +46,6 @@ width: 1600px;
 .watch{
     background-image: url(../images/watch.png);
     background-repeat: no-repeat;
-    
     align-items: center;
     padding-left: 64px;
     padding-right: 617px;
@@ -61,5 +60,33 @@ width: 1600px;
 }
 #color{
     color: darkblue;
-    size:30px;
+    size:40px;
+}
+.foot{
+    display: flex;
+    justify-content:space-around;
+    background-color: black;
+
+}
+.text{
+    color: aliceblue;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+#text-color{
+    color: aliceblue;
+    padding-top: 50px;
+}
+#sub{
+    padding: 10px;
+    border-radius: 5px;
+    background-color:rgb(6, 6, 117) ;
+}
+#s-color{
+    color: aliceblue;
+    padding: 8px;
+    size: 8px;
+}
+#email{
+    size: 25px;
 }
